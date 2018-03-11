@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/survey/bin/Debug/netcoreapp2.0/survey.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/survey/bin/Debug/netcoreapp2.0/survey.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/survey/bin/Debug/netcoreapp2.0/survey.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/survey/bin/Debug/netcoreapp2.0/survey.dll
+/Users/vesterbrook/Desktop/DOJO/c#/survey/bin/Debug/netcoreapp2.0/survey.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/survey/obj/Debug/netcoreapp2.0/survey.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/survey/obj/Debug/netcoreapp2.0/survey.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/survey/obj/Debug/netcoreapp2.0/survey.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/survey/obj/Debug/netcoreapp2.0/survey.dll
+/Users/vesterbrook/Desktop/DOJO/c#/survey/obj/Debug/netcoreapp2.0/survey.pdb

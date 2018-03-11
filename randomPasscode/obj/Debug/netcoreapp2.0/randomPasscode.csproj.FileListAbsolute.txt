@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/bin/Debug/netcoreapp2.0/randomPasscode.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/bin/Debug/netcoreapp2.0/randomPasscode.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/bin/Debug/netcoreapp2.0/randomPasscode.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/bin/Debug/netcoreapp2.0/randomPasscode.dll
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/bin/Debug/netcoreapp2.0/randomPasscode.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/obj/Debug/netcoreapp2.0/randomPasscode.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/obj/Debug/netcoreapp2.0/randomPasscode.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/obj/Debug/netcoreapp2.0/randomPasscode.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/obj/Debug/netcoreapp2.0/randomPasscode.dll
+/Users/vesterbrook/Desktop/DOJO/c#/randomPasscode/obj/Debug/netcoreapp2.0/randomPasscode.pdb

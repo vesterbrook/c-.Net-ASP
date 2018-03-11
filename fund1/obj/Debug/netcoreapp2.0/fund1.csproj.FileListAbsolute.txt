@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/bin/Debug/netcoreapp2.0/fund1.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/bin/Debug/netcoreapp2.0/fund1.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/bin/Debug/netcoreapp2.0/fund1.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/bin/Debug/netcoreapp2.0/fund1.dll
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/bin/Debug/netcoreapp2.0/fund1.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/obj/Debug/netcoreapp2.0/fund1.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/obj/Debug/netcoreapp2.0/fund1.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/obj/Debug/netcoreapp2.0/fund1.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/obj/Debug/netcoreapp2.0/fund1.dll
+/Users/vesterbrook/Desktop/DOJO/c#/fund1/obj/Debug/netcoreapp2.0/fund1.pdb

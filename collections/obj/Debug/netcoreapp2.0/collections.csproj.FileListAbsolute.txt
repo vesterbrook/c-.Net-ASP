@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/collections/obj/Debug/netcoreapp2.0/collections.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/collections/obj/Debug/netcoreapp2.0/collections.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/collections/obj/Debug/netcoreapp2.0/collections.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp2.0/collections.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp2.0/collections.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp2.0/collections.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp2.0/collections.dll
+/Users/vesterbrook/Desktop/DOJO/c#/collections/bin/Debug/netcoreapp2.0/collections.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/collections/obj/Debug/netcoreapp2.0/collections.dll
+/Users/vesterbrook/Desktop/DOJO/c#/collections/obj/Debug/netcoreapp2.0/collections.pdb

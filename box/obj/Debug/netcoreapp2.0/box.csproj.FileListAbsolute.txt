@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/box/bin/Debug/netcoreapp2.0/box.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/box/bin/Debug/netcoreapp2.0/box.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/box/bin/Debug/netcoreapp2.0/box.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/box/bin/Debug/netcoreapp2.0/box.dll
+/Users/vesterbrook/Desktop/DOJO/c#/box/bin/Debug/netcoreapp2.0/box.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/box/obj/Debug/netcoreapp2.0/box.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/box/obj/Debug/netcoreapp2.0/box.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/box/obj/Debug/netcoreapp2.0/box.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/box/obj/Debug/netcoreapp2.0/box.dll
+/Users/vesterbrook/Desktop/DOJO/c#/box/obj/Debug/netcoreapp2.0/box.pdb

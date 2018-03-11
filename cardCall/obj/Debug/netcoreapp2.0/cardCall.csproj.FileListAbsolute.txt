@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/bin/Debug/netcoreapp2.0/cardCall.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/bin/Debug/netcoreapp2.0/cardCall.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/bin/Debug/netcoreapp2.0/cardCall.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/bin/Debug/netcoreapp2.0/cardCall.dll
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/bin/Debug/netcoreapp2.0/cardCall.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/obj/Debug/netcoreapp2.0/cardCall.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/obj/Debug/netcoreapp2.0/cardCall.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/obj/Debug/netcoreapp2.0/cardCall.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/obj/Debug/netcoreapp2.0/cardCall.dll
+/Users/vesterbrook/Desktop/DOJO/c#/cardCall/obj/Debug/netcoreapp2.0/cardCall.pdb

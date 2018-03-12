@@ -29,8 +29,8 @@ namespace dojodachi
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseStaticFiles();
             app.UseSession();
+            app.UseStaticFiles();
             app.UseMvc();
         }
     }

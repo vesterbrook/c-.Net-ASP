@@ -1,0 +1,9 @@
+﻿   
+@foreach(var rest in ViewBag.Reviews) {
+
+<h1>Review for: @rest.restName  @rest.stars</h1>
+<h2>Reviewer: @rest.reviewName, @rest.visitDate</h2>
+<h3>@rest.review</h3>
+<hr>
+
+}

@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/rest/obj/Debug/netcoreapp2.0/rest.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/rest/obj/Debug/netcoreapp2.0/rest.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/rest/obj/Debug/netcoreapp2.0/rest.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/rest/bin/Debug/netcoreapp2.0/rest.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/rest/bin/Debug/netcoreapp2.0/rest.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/rest/bin/Debug/netcoreapp2.0/rest.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/rest/bin/Debug/netcoreapp2.0/rest.dll
+/Users/vesterbrook/Desktop/DOJO/c#/rest/bin/Debug/netcoreapp2.0/rest.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/rest/obj/Debug/netcoreapp2.0/rest.dll
+/Users/vesterbrook/Desktop/DOJO/c#/rest/obj/Debug/netcoreapp2.0/rest.pdb

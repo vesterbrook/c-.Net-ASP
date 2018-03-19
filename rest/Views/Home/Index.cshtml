@@ -1,0 +1,39 @@
+﻿@model rest.Models.Rest
+<h1>Write a new Review:</h1>
+<form asp-action="createReview" asp-controller="Home" method="post">
+    <span asp-validation-for="reviewName"></span>
+    <br>
+    <label>Reviewer Name:</label>
+    <input asp-for="reviewName" class="form-control">
+    <br>
+    <span asp-validation-for="restName"></span>
+    <br>
+    <label>Restaurant Name:</label>
+    <input asp-for="restName" class="form-control">
+    <br>
+    <span asp-validation-for="review"></span>
+    <br>
+    <label>Review:</label>
+    <input asp-for="review" class="form-control">
+    <br>
+    <span asp-validation-for="visitDate"></span>
+    <br>
+    <label>Date of Visit:</label>
+    <input asp-for="visitDate" type="date" class="form-control">
+    <br>
+    <span asp-validation-for="stars"></span>
+    <br>
+    <label>Stars:</label>
+    <select asp-for="stars">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+    </select>
+    <button class="btn btn-info" type="submit">Submit</button>
+</form>
+<a href="/reviews">TO REVIEWS!</a>
+
+
+    

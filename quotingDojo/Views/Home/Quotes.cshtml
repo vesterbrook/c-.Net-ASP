@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Quotes"] = "Quotes";
+}
+<h2>@ViewData["name"]</h2>
+<h3>@ViewData["Quotes"]</h3>
+
+<body>
+    <h1>Here are the awesome quotes!</h1>
+    @{
+        foreach(var user in @ViewBag.List)
+        {
+            <p>@user["quotesBox"]</p>
+            <p>@user["name"]</p>
+            <p>@user["created_at"]</p>
+        }
+    }
+
+    
+</body>

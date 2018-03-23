@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+@{
+    foreach(var user in @ViewBag.List)
+    {
+    <h1>Update note</h1>
+    <form action='/update/@user["id"]' method='POST'>
+        <button>update</button>
+        <input type="text" name="title" value="@user["title"]">
+        <textarea name="note">@user["note"]</textarea>
+    </form>
+    }
+}

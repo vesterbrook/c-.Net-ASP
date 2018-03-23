@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<body>
+    <h1>Add a note</h1>
+    <form action='/create' method='POST'>
+        Note Title:
+        <input type='text' name='title'>  
+        <br> 
+        Your Note:
+        <textarea name="note"></textarea>
+        <input type='submit' value='submit'>
+        
+        
+    </form>
+    @{
+        foreach(var user in @ViewBag.List)
+        {
+<form action='/delete/@user["id"]' method='POST'>
+    <button>Delete</button>
+</form>
+<form action='/edit/@user["id"]'>
+    <button>Update</button>
+</form>
+            <p>@user["title"]</p>
+            <p>@user["note"]</p>
+        }
+    }
+</body>

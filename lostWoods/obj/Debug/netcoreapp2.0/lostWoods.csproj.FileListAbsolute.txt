@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/obj/Debug/netcoreapp2.0/lostWoods.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/obj/Debug/netcoreapp2.0/lostWoods.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/obj/Debug/netcoreapp2.0/lostWoods.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/bin/Debug/netcoreapp2.0/lostWoods.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/bin/Debug/netcoreapp2.0/lostWoods.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/bin/Debug/netcoreapp2.0/lostWoods.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/bin/Debug/netcoreapp2.0/lostWoods.dll
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/bin/Debug/netcoreapp2.0/lostWoods.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/obj/Debug/netcoreapp2.0/lostWoods.dll
+/Users/vesterbrook/Desktop/DOJO/c#/lostWoods/obj/Debug/netcoreapp2.0/lostWoods.pdb

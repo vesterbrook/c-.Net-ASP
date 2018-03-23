@@ -1,0 +1,48 @@
+<h1>Manage Users</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>email</th>
+            <th>created_at</th>
+            <th>User Level</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+@{
+    @foreach(var user in ViewBag.AllUsers)
+    {
+        <tr>
+            <td>@user.UserId</td>
+            <td><a href="/show/@user.UserId">@user.FirstName @user.LastName</a></td>
+            <td>@user.Email</td>
+            <td>@user.created_at</td>
+            @if(@user.UserLevel == 9)
+            {
+                <td>Admin</td>
+            }
+            else
+            {
+                <td>Normal</td>
+            }
+            
+           
+                <td><a href="/delete/@user.UserId">Delete</a>
+                <a href="/edituser/@user.UserId">Edit</a>
+                </td>
+           
+            
+        </tr>
+    }
+}
+    </tbody>
+
+<form action="/logout" method="post">
+    <button class="btn btn-info logout green">LOG OUT</button>
+</form>
+<form action="/Add" method="get">
+    <button class="btn btn-info logout green">ADD USER</button>
+</form>

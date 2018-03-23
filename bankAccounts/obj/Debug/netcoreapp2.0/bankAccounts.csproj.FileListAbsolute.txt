@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/obj/Debug/netcoreapp2.0/bankAccounts.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/obj/Debug/netcoreapp2.0/bankAccounts.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/obj/Debug/netcoreapp2.0/bankAccounts.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/bin/Debug/netcoreapp2.0/bankAccounts.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/bin/Debug/netcoreapp2.0/bankAccounts.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/bin/Debug/netcoreapp2.0/bankAccounts.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/bin/Debug/netcoreapp2.0/bankAccounts.dll
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/bin/Debug/netcoreapp2.0/bankAccounts.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/obj/Debug/netcoreapp2.0/bankAccounts.dll
+/Users/vesterbrook/Desktop/DOJO/c#/bankAccounts/obj/Debug/netcoreapp2.0/bankAccounts.pdb

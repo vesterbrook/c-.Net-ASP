@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/obj/Debug/netcoreapp2.0/ajaxNotes.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/obj/Debug/netcoreapp2.0/ajaxNotes.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/obj/Debug/netcoreapp2.0/ajaxNotes.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/bin/Debug/netcoreapp2.0/ajaxNotes.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/bin/Debug/netcoreapp2.0/ajaxNotes.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/bin/Debug/netcoreapp2.0/ajaxNotes.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/bin/Debug/netcoreapp2.0/ajaxNotes.dll
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/bin/Debug/netcoreapp2.0/ajaxNotes.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/obj/Debug/netcoreapp2.0/ajaxNotes.dll
+/Users/vesterbrook/Desktop/DOJO/c#/ajaxNotes/obj/Debug/netcoreapp2.0/ajaxNotes.pdb

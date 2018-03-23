@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/bin/Debug/netcoreapp2.0/formSubmission.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/bin/Debug/netcoreapp2.0/formSubmission.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/bin/Debug/netcoreapp2.0/formSubmission.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/bin/Debug/netcoreapp2.0/formSubmission.dll
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/bin/Debug/netcoreapp2.0/formSubmission.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/obj/Debug/netcoreapp2.0/formSubmission.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/obj/Debug/netcoreapp2.0/formSubmission.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/obj/Debug/netcoreapp2.0/formSubmission.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/obj/Debug/netcoreapp2.0/formSubmission.dll
+/Users/vesterbrook/Desktop/DOJO/c#/formSubmission/obj/Debug/netcoreapp2.0/formSubmission.pdb

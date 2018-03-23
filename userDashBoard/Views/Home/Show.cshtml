@@ -1,0 +1,33 @@
+@model userDashBoard.Models.MessageVal
+
+<h1>@ViewBag.Friends.FirstName @ViewBag.Friends.LastName</h1>
+<p>Registered at: @ViewBag.Friends.created_at </p>
+<p>User ID: @ViewBag.Friends.UserId</p>
+<p>Email Address: @ViewBag.Friends.Email</p>
+<p>Description: please finish the comments, edit profile, show the created at time for posts,  </p>
+
+<h1>Leave a message for @ViewBag.Friends.FirstName @ViewBag.Friends.LastName</h1>
+
+
+<form asp-action="Message" asp-controller="Home" method="post">
+    <span asp-validation-for="Messages"></span>
+    <textarea asp-for="Messages" class="form-control"></textarea>
+    <button class="btn btn-info green" type="submit">Post</button>
+</form>
+@{
+    @foreach(var message in ViewBag.VBAG)
+    {
+        <p>@message.Messages</p>
+    }
+}
+<form action="/logout" method="post">
+    <button class="btn btn-info logout green">LOG OUT</button>
+</form>
+<form action="/userdash" method="get">
+    <button class="btn btn-info logout green">DASHBOARD</button>
+</form>
+<form action="/admindash" method="get">
+    <button class="btn btn-info logout green">VANESSA ONLY</button>
+</form>
+
+//make if else statments based on the userlevel for vanessa only button

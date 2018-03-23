@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/obj/Debug/netcoreapp2.0/userDashBoard.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/obj/Debug/netcoreapp2.0/userDashBoard.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/obj/Debug/netcoreapp2.0/userDashBoard.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/bin/Debug/netcoreapp2.0/userDashBoard.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/bin/Debug/netcoreapp2.0/userDashBoard.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/bin/Debug/netcoreapp2.0/userDashBoard.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/bin/Debug/netcoreapp2.0/userDashBoard.dll
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/bin/Debug/netcoreapp2.0/userDashBoard.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/obj/Debug/netcoreapp2.0/userDashBoard.dll
+/Users/vesterbrook/Desktop/DOJO/c#/userDashBoard/obj/Debug/netcoreapp2.0/userDashBoard.pdb

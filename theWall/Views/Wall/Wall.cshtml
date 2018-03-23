@@ -1,0 +1,49 @@
+﻿
+<h1>The Wall</h1>
+<p>Logged in as <a href=""></a> ID </p> 
+<a href="/logout">| LOGOUT |</a>
+<hr>
+<h3>Write your feelings! </h3>
+<form asp-action="writeMessage" asp-controller="Wall" asp-method="post">
+    <textarea class="form-control" rows="5" name="message"></textarea>
+    <br>
+    <button class="btn btn-info" type="submit">Post</button>
+</form>
+@{
+
+    foreach (var message in @ViewBag.Messages)
+    {   
+        <h2>@message["firstName"]</h2>
+        <h4>@message["message"]</h4>
+        <h5>@message["created_at"]</h5>
+        int messageId = message["id"];
+        <br>
+        <h4>Comments</h4>
+
+
+    @foreach (var comment in ViewBag.Comments)
+    {
+        @if(comment["messages_id"] == message["id"])
+        {
+            <h5>@comment["firstName"] @comment["lastName"]</h5>
+            <p>@comment["comment"]</p>
+            <h6>@comment["created_at"]</h6>
+        }
+
+
+
+    <form asp-action="writeComment" asp-controller="Wall" > 
+        <textarea class="form-control" rows="3" name="comment"></textarea>
+        <input type="hidden" name="message_id" value="@messages_id">
+    <br>
+        <button class="btn btn-info" type="submit">Comment!</button>
+    </form>
+
+                        
+                 
+                         
+    <hr> 
+    }
+    }
+
+}

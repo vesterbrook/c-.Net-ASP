@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/obj/Debug/netcoreapp2.0/theWall.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/obj/Debug/netcoreapp2.0/theWall.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/obj/Debug/netcoreapp2.0/theWall.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/bin/Debug/netcoreapp2.0/theWall.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/bin/Debug/netcoreapp2.0/theWall.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/bin/Debug/netcoreapp2.0/theWall.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/bin/Debug/netcoreapp2.0/theWall.dll
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/bin/Debug/netcoreapp2.0/theWall.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/obj/Debug/netcoreapp2.0/theWall.dll
+/Users/vesterbrook/Desktop/DOJO/c#/theWall/obj/Debug/netcoreapp2.0/theWall.pdb

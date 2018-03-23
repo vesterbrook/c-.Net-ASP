@@ -1,0 +1,10 @@
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/obj/Debug/netcoreapp2.0/loginReg.csproj.CoreCompileInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/obj/Debug/netcoreapp2.0/loginReg.AssemblyInfoInputs.cache
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/obj/Debug/netcoreapp2.0/loginReg.AssemblyInfo.cs
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/obj/Debug/netcoreapp2.0/loginReg.dll
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/obj/Debug/netcoreapp2.0/loginReg.pdb
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/bin/Debug/netcoreapp2.0/loginReg.deps.json
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/bin/Debug/netcoreapp2.0/loginReg.runtimeconfig.json
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/bin/Debug/netcoreapp2.0/loginReg.runtimeconfig.dev.json
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/bin/Debug/netcoreapp2.0/loginReg.dll
+/Users/vesterbrook/Desktop/DOJO/c#/loginReg/bin/Debug/netcoreapp2.0/loginReg.pdb

@@ -1,0 +1,59 @@
+@model userDashBoard.Models.RegUser
+<h1>Edit profile!</h1>
+<h2>Edit Infomartion!</h2>
+
+<form asp-action="RegisterUser" asp-controller="Home" method="post">
+
+<span asp-validation-for="Email"></span>
+    <br>
+    <label>Email Address:</label>
+    <input asp-for="Email" class="form-control">
+    <br>
+
+    <span asp-validation-for="FirstName"></span>
+    <br>
+    <label>First Name:</label>
+    <input asp-for="FirstName" class="form-control">
+    <br>
+
+    <span asp-validation-for="LastName"></span>
+    <br>
+    <label>Last Name:</label>
+    <input asp-for="LastName" class="form-control">
+    <br>
+    <span asp-validation-for="UserLevel"></span>
+    <br>
+    <label>User Level:</label>
+    <select asp-for="UserLevel">
+        <option value="0">Normal</option>
+        <option value="9">Admin</option>
+        <button class="btn btn-info green" type="submit">Save</button>
+</form>
+<h2>Edit password!</h2>
+<form asp-action="RegisterUser" asp-controller="Home" method="post">
+    <span asp-validation-for="Password"></span>
+    <br>
+    <label>Password:</label>
+    <input asp-for="Password" class="form-control">
+    <br>
+
+    <span asp-validation-for="ConfirmPassword"></span>
+    <br>
+    <label>Confirm Password:</label>
+    <input asp-for="ConfirmPassword" class="form-control">
+    <br>
+
+    <button class="btn btn-info green" type="submit">Update Password</button>
+</form>
+
+<form asp-action="RegisterUser" asp-controller="Home" method="post">
+    <span asp-validation-for="Description"></span>
+    <br>
+    <label>Edit Description</label>
+    <button class="btn btn-info green" type="submit">Update Description</button>
+    <textarea asp-for="Decription" class="form-control"></textarea>
+</form>
+
+<form action="/userdash" method="get">
+    <button class="btn btn-info logout green">ADMIN DASHBOARD</button>
+</form>

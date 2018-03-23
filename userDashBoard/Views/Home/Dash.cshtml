@@ -1,0 +1,40 @@
+<h1>All Users</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>email</th>
+            <th>created_at</th>
+            <th>User Level</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@{
+    @foreach(var user in ViewBag.AllUsers)
+    {
+        <tr>
+            <td>@user.UserId</td>
+            <td><a href="/show/@user.UserId">@user.FirstName @user.LastName</a></td>
+            <td>@user.Email</td>
+            <td>@user.created_at</td>
+            @if(@user.UserLevel == 9)
+            {
+                <td>Admin</td>
+            }
+            else
+            {
+                <td>Normal</td>
+            }
+            <td></td>
+        </tr>
+    }
+}
+    </tbody>
+
+<form action="/logout" method="post">
+    <button class="btn btn-info logout green">LOG OUT</button>
+</form>
+

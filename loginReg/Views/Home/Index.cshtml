@@ -1,0 +1,33 @@
+﻿@model loginReg.Models.RegUser
+<h1>Please Register!</h1>
+
+<form asp-controller="Home" asp-action="Register" method="post">
+
+	<span asp-validation-for="FirstName"></span>
+    <label>First Name:</label>
+	<input asp-for="FirstName">
+<br>
+    <span asp-validation-for="LastName"></span>
+ 
+    <label>Last Name:</label>
+    <input asp-for="LastName">
+<br>
+	<span asp-validation-for="Email"></span>
+    <label>Email:</label>
+	<input asp-for="Email">
+<br>
+    <span asp-validation-for="Password"></span>
+    <label>Password:</label>
+    <input asp-for="Password">
+<br>
+    <span asp-validation-for="Password"></span>
+    <label>Confirm Password:</label>
+    <input asp-for="PasswordConfirm">
+<br>
+	<button type="submit">Submit</button>
+
+</form>	
+
+<form asp-controller="Home" asp-action="Login" method="get">
+    <button>LOG IN HERE</button>
+</form>
